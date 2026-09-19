@@ -1,0 +1,79 @@
+Competition	The effect of a large number of buyers and sellers acting independently, so that an individual seller has very little or no market power to influence the price of the product
+Market power	The ability of a firm (or group of firms) to raise and maintain prices above the level that would occur under competition
+Assumptions about human behavior (rational consumer choice)	Consumers are assumed to have clear preferences that are stable over time (ceteris paribus), highly developed analytical skills and perfect knowledge to make rational choices, and to always act to maximize their personal satisfaction (utility)
+Change in quantity demanded	A movement along the demand curve, caused by a change in the price of the product itself
+Change in demand	A shift of the entire demand curve (right = increase, left = decrease), caused by a change in a non-price determinant of demand
+Demand	The quantity of a good or service that consumers are willing and able to purchase at various prices during a given period, ceteris paribus
+Law of demand	The principle that as the price of a product increases, the quantity demanded decreases (and as price falls, quantity demanded rises), ceteris paribus
+Effective demand	The quantity of goods or services that consumers are actually buying; demand backed by both the willingness and the ability to pay
+Income effect	When the price of a product falls, consumers' real income (purchasing power) rises, usually allowing them to buy more of it; the income effect may be negative (for inferior goods)
+Substitution effect	When the price of a product falls relative to other products, consumers have an incentive to buy more of it because its marginal utility/price ratio has improved
+Law of diminishing marginal utility	As a person consumes more units of a good or service, the additional satisfaction (marginal utility) gained from each extra unit eventually falls, ceteris paribus
+Tastes and preferences (determinant of demand)	If a product becomes more popular, demand increases (the curve shifts right); if it becomes less popular, demand decreases (shifts left)
+Normal good	A good for which demand increases as income increases (and decreases as income falls)
+Inferior good	A good for which demand increases as income falls (and decreases as income rises)
+Future expectations (determinant of demand)	If consumers expect the price of a product to rise in the future, demand for it increases now (the curve shifts right)
+Producers	People, companies or countries that make, grow or supply goods, services or resources in a market
+Supply	The quantity of a good or service that producers are willing and able to offer at various prices during a specific time period, ceteris paribus
+Law of supply	As the price of a product increases, the quantity supplied will usually increase (and vice versa), ceteris paribus
+Movement along the supply curve	A change in quantity supplied caused by a change in the price of the product itself
+Shift in supply	A change in a non-price determinant that moves the whole supply curve left (decrease) or right (increase), changing the quantity producers are willing and able to supply at every price
+Marginal returns	The additional returns (output/product) gained from adding one more unit of a factor of production (input)
+Law of diminishing marginal returns	In the short run, adding more of one factor of production (input) while holding at least one other factor of production constant will, at some point, yield lower marginal returns (output/product); this does not mean total output is falling
+Fixed capital	A real, physical asset that is used in the production of a product but is not used up in production
+Marginal cost	The cost of producing one more unit of a good
+Increasing marginal costs (why supply slopes upward)	In the short run, as output increases, marginal returns fall and marginal costs rise, so producers will only increase quantity supplied if they receive a higher price
+Capacity utilization	How much of a firm's total potential capacity (machinery, staff, vehicles, software) is actually being used
+Capacity optimization	The strategy of improving capacity utilization by matching business assets to demand, getting the most value from them without overloading the system
+Market	All the consumers willing and able to buy a good or service at different prices and all the producers willing and able to supply it; in other words, its demand and supply
+Market equilibrium	The point where the supply curve crosses the demand curve, at the price where quantity demanded equals quantity supplied
+Equilibrium price (market-clearing price)	The price set by the interaction between consumers and producers at which there is no surplus or shortage and the market has cleared
+Disequilibrium	When quantity demanded does not equal quantity supplied; markets spend most of their time in disequilibrium, but it is assumed to be temporary if prices can adjust
+Surplus (excess supply)	When the price is above equilibrium, so quantity supplied is greater than quantity demanded; prices will fall to reach equilibrium
+Shortage (excess demand)	When the price is below equilibrium, so quantity demanded is greater than quantity supplied; prices will rise to reach equilibrium
+Price mechanism	The way price changes affect quantity demanded and quantity supplied, thus determining resource allocation in a market
+Negative feedback loop	The process that brings a market back to equilibrium after a shift in demand or supply, triggered by a price change that acts as a signal and an incentive
+Signaling function of price	A change in price signals to consumers and producers that they should change their behavior
+Incentive function of price	A change in price motivates consumers and producers to react in a way that brings the market back to equilibrium (for firms, the motive is maximizing profit)
+Behavioral economics	A branch of economics that uses insights from psychology to challenge the assumption that people act in an economically rational way, recognizing that consumer choices are influenced by many factors such as biases, limited information and social context
+Econs	Theoretical, perfectly rational decision-makers (Thaler says they don't exist) who have perfect information, are extremely intelligent and calculate quickly, maximize their own utility, act in their own self-interest, have consistent preferences over time, have no self-control problems and are unbiased
+Humans	Real decision-makers (all of us) who have bounded rationality and incomplete information, are not as intelligent as Econs, have limited ability to carry out complex calculations, make decisions in a social context, change their tastes over time and may have self-control issues
+Bounded rationality	The idea that people's ability to make rational choices is limited by incomplete information, limited mental ability and limited time, so they often settle for choices that are good enough rather than the best
+Cognitive bias	A systematic error in thinking that occurs when people process and interpret information, leading to distorted judgments and irrational decisions; a way human decision-making deviates from rationality
+System 1 thinking	Thinking that happens automatically, with little effort and little or no voluntary control; it is prone to biases and makes predictable errors in certain circumstances
+System 2 thinking	Thinking that is conscious, reasoned and deliberate
+Availability bias	Judging how likely or important something is by how easily examples come to mind (such as recent or memorable events), rather than by all the relevant information
+Anchoring bias	Relying too heavily on the first piece of information given (the anchor, such as a starting number) when making estimates or decisions
+Framing bias	Being influenced by how information or a choice is presented (framed), such as wording that makes a product seem less expensive, rather than by the facts themselves
+Social conformity (herd behavior)	The tendency to copy the choices of other people, such as following trends and fashions, rather than choosing independently
+Status quo (inertia) bias	The tendency to stick with the current situation or default option, even when a better alternative is available
+Loss aversion bias	The tendency to feel a loss more strongly than an equal gain, so people try harder to avoid losses than to achieve gains
+Hyperbolic discounting	The tendency to prefer smaller, immediate rewards over larger rewards in the future, placing too little value on future outcomes
+Choice architecture	The way choices are structured and presented to consumers (the physical positioning of products, the language used, the sequencing of choices and the range of offerings), often using biases to achieve a desired outcome
+Default choice	A situation where an option is automatically set for consumers unless they actively change it
+Restricted choice	A situation where the choices available to consumers are limited
+Mandated choice	A situation where people are required (for example, by law) to make an active choice, rather than an option being set for them by default
+Nudge theory	Any arrangement of choice architecture that alters people's choices without limiting their options or significantly changing incentives
+Penetration pricing	Setting a low initial price, accepting a lower profit margin per unit and lower short-term profit, to gain market share and customers, then raising prices once a strong customer base is established
+Loss leader pricing	Selling one product at a very low price, or even at a loss, to attract customers who will then buy other products with higher profit margins
+Predatory pricing	Setting extremely low prices to drive competitors out of the market, so the firm can later raise prices and gain greater market power
+Alternative business objectives	Goals a firm may pursue instead of profit maximization, such as corporate social responsibility (CSR), growth and market share, and satisficing
+Corporate social responsibility (CSR)	When a firm acts ethically and takes responsibility for its impact on society and the environment, even if this means not maximizing profit
+Costs and benefits of CSR	Short run: higher costs, higher research and development costs, and less profit. Long run: reduces costs borne by society and future businesses, and supports growth and market share
+Fair trade	A trading arrangement that guarantees producers, usually in developing countries, a fair minimum price and decent working conditions
+Market share	The percentage of a market that a firm controls
+Economies of scale	A firm's ability to produce with lower average costs as it grows in size
+Satisficing	Making choices that are satisfactory (good enough) rather than maximizing, such as a firm aiming for an acceptable level of profit instead of maximum profit
+Non-price determinants of demand (demand shifters)	Factors other than the product's own price that shift the whole demand curve: income, tastes and preferences, prices of related goods (substitutes and complements), demographic changes (number of consumers) and future expectations
+Substitutes (price of related goods)	Goods that can be used in place of each other; if the price of one rises, demand for the other increases (shifts right), and if it falls, demand for the other decreases (shifts left)
+Complements (price of related goods)	Goods that are used together; if the price of one rises, demand for the other decreases (shifts left), and if it falls, demand for the other increases (shifts right)
+Demographic changes (determinant of demand)	Changes in the size or makeup of the population, such as population growth or an aging population; more consumers in a market increases demand (shifts right), and fewer consumers decreases it (shifts left)
+Non-price determinants of supply (supply shifters)	Factors other than the product's own price that shift the whole supply curve: costs of factors of production, technology, prices of related goods (competitive and joint supply), producer expectations, indirect taxes and subsidies, and the number of firms
+Costs of factors of production (determinant of supply)	If the costs of land, labor, capital or entrepreneurship rise, production becomes more expensive, so supply decreases (shifts left); if costs fall, supply increases (shifts right)
+Technology (determinant of supply)	Improvements in technology make production more efficient and lower costs, so supply increases (shifts right)
+Competitive supply (price of related goods)	Goods produced using the same resources, so making more of one means making less of the other; if the price of one rises, firms switch production toward it and supply of the other decreases (shifts left)
+Joint supply (price of related goods)	Goods produced together from the same process, where one is a by-product of the other; if the price of one rises and more of it is produced, supply of the other also increases (shifts right)
+Producer expectations (determinant of supply)	If producers expect the price of their product to rise in the future, they may hold back output now to sell later, so current supply decreases (shifts left); if they expect prices to fall, current supply increases (shifts right)
+Indirect tax (determinant of supply)	A tax on spending on goods and services that firms pay to the government; it raises firms' costs of production, so supply decreases (shifts left/up)
+Subsidy (determinant of supply)	A payment from the government to firms that lowers their costs of production, so supply increases (shifts right/down)
+Number of firms (determinant of supply)	If more firms enter the market, market supply increases (shifts right); if firms leave the market, supply decreases (shifts left)
