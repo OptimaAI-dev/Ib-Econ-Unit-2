@@ -4,7 +4,7 @@ A one-page, interactive study guide for the Unit 2 (Microeconomics) test: every 
 the class notes, animated demand-and-supply diagrams, a shifter lab, the nine P2 questions with a
 diagram builder that marks your answer, and Explain drills with mark schemes.
 
-**▶ Open it: https://YOUR-USERNAME.github.io/ib-econ-unit2/**
+**▶ Open it: https://OptimaAI-dev.github.io/ib-econ-unit2/**
 
 Nothing to install. Works on a phone. If your device is set to reduce motion, the animations turn
 themselves off.
